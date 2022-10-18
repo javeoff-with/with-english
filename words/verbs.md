@@ -1,0 +1,33 @@
+- [ ] clarify - прояснять
+    - Just clarifying, where i am
+- [ ] to get off - освободиться
+    - I want to get off!
+- [ ] originates from - брать начало из
+    - All beauty originates from existence
+- [ ] leads to - приводит к
+    - this actions lead to self-destruction
+- [ ] Not to mention - Не взирая на
+    - this can be scary, not to mention painful
+- [ ] Regardless of - Не взирая на
+    - The truth is, regardless of the risks, this is out only chance  
+- [ ] No Matter - Не взирая на
+    - Containment no matter the cost or loses
+- [ ] enforces - Обеспечивать
+    - No other known package manager enforces semantic versioning this reliably
+- [ ] force - Принуждать
+    - I don't want to force you, my dear
+- [ ] seek - стремиться, искать
+    - Don't seek the extraordinary, seek the ordinary.
+    - We seek to create a learning environment that promotes free thinking and critical reflection among students
+- [ ] Look for - Искать
+    - All fishing boats have been told to look for the plane
+- [ ] Search for - Искать
+	- A good journalist needs to be tireless in their search for the truth
+- [ ] derive - исходить, вытекать
+- [ ] obtain - получать
+- [ ] improve - улучшать
+- [ ] compare - сравнивать
+- [ ] to spread - распространять
+- [ ] to note - обратить внимание
+- [ ] to consider - рассмотреть
+- [ ] to inquire - разузнать
