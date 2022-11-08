@@ -1,0 +1,3 @@
+- approach - подход
+- waterfall - водопад
+- sibling - брат или сестра

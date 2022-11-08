@@ -88,3 +88,5 @@
     - It takes power to event conceive what power is.
 - [ ] appreciate - ценить
     - Change has made me apprecieate life more
+- adopt - принимать
+- expose - показывать

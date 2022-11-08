@@ -1,0 +1,43 @@
+- beat around the bush - избегать одной темы, 
+    - ходить вокруг да около
+- your guess is as good as mine - твоя догадка такая же хорошая, как и моя
+    - также, как и ты я не знаю 
+- be up in arms - поднять оружия
+    - быть злым и недоброжелательным
+- sell like hot cakes - распродать как горячие пирожки
+- on cloud nine - быть на седьмом небе от счастья
+- left out in the cold - остаться в холоде
+    - игнорировать, не общаться
+- cut corners - срезать углы
+    - сократить, упростить работу, жертвуя качеством
+- boil the ocean - вскипятить океан
+    - сделать невозможное
+- keep an ear to the ground - держать ухо наземле
+    - быть в курсе всего происходящего, держать ухо востро
+- a snowball effect - эффект снежного шара
+- every cloud has a silver lining
+    - площие вещи всегда приводят к чему-то хорошему  
+- don't cry over spilled milk
+    - не расстраивайся из-за того что нельзя уже исправить
+- fair in square
+    - быть честным или прямолинейным
+- have a grudge
+    - злость к человеку за что-то
+- by the skin of yout teeth
+    - еще чуть-чуть и у вас бы не получилось
+- down for the count
+    - очень устал, не могу это сделать
+- draw the line
+    - расставить четкие границы
+- cross the line
+    - пересекать границы
+- break the leg
+    - удачи
+- feel like a fish out of water
+    - чувстовать себя дискомфортно
+- go the extra mile
+    - сделать сверх нормы
+- step up your game
+    - стараться больше, чтобы сделать лучше
+- have bigger fish to fry
+	- есть проблемы и поважнее
